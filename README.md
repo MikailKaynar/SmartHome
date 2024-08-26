@@ -14,18 +14,19 @@ client =>
 3: axios
 4: react-switch
 5: react-icons
+6: react-circular-slider
 
 Projeyi aşşağıdaki adımları takip ederek çalıştırabilirsiniz
 
 terminal 1:
-cd:\wiihom\api
+cd .\api\
 
 ### `npm i`
 
 ### `nodemon app.js`
 
 terminal 2:
-cd:\wiihom\client\wiihom
+cd .\client\wiihom
 
 ### `npm i`
 
